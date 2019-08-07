@@ -63,7 +63,7 @@ body{
     body{
         text-align: center;
     }
-    h1{
-        margin: 5px 0px;
+    .col-md-4{
+        margin:15px 0px;
     }
 }
